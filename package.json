@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-jumpstart",
+  "version": "0.0.1",
+  "description": "Getting Started With Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsbites/nodejs-jumpstart"
+  },
+  "keywords": [
+    "node.js",
+    "sample",
+    "getting",
+    "started",
+    "demo"
+  ],
+  "author": "Volkan Ozcelik",
+  "license": "MIT"
+}

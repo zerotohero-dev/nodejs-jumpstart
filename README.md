@@ -5,7 +5,11 @@
      /        |  _.     _. (_   _ ._ o ._ _|_
             \_| (_| \/ (_| __) (_ |  | |_) |_
                                        |
+                                       
+    < http://bit.ly/bytesized >                                   
 ```
+
+# Node.JS Jumpstart
 
 ## Summary
 
@@ -34,6 +38,6 @@ MIT-licensed. — See [the license file][LICENSE.md] for details.
 
 We, as the community behind this project, are committed to making participation in this project a harassment-free experience for everyone, regardless of the level of expertise, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion or nationality.
 
-[See the code of conduct][CODE_OF_CONDUCT.md] for more details.
+[See the code of conduct](CODE_OF_CONDUCT.md) for more details.
 
 [vidcast]: https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA

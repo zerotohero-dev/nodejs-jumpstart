@@ -31,7 +31,7 @@ It is a compilation of short (*less than five minutes*) weekly screencast about 
 
 ## License
 
-MIT-licensed. — See [the license file][LICENSE.md] for details.
+MIT-licensed. — See [the license file](LICENSE.md) for details.
 
 ## Code of Conduct
 

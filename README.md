@@ -5,8 +5,7 @@
      /        |  _.     _. (_   _ ._ o ._ _|_
             \_| (_| \/ (_| __) (_ |  | |_) |_
                                        |
-                                       
-    < http://bit.ly/bytesized >                                   
+            »»  bit.ly/bytesized  ««
 ```
 
 # Node.JS Jumpstart

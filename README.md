@@ -15,7 +15,7 @@ There’s nothing complicated here. It is just a sample repository that does som
 
 ## About This Repository
 
-This repository is a part of [Byte-Sized JavaScript Weekly VideoCast][vidcast].
+This repository is a part of [Byte-Sized JavaScript Bi-Weekly VideoCast][vidcast].
 
 ```
   _               __

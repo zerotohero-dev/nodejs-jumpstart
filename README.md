@@ -1,5 +1,5 @@
 ```
-      __   __   ___        __ 
+      __   __   ___        __
 |\ | /  \ |  \ |__      | /__`
 | \| \__/ |__/ |___ .\__/ .__/
                  __   __  ___       __  ___
@@ -12,6 +12,8 @@
 Node.JS Jumpstart is a sample repository that is used as an example for setting up a Node.JS sample project.
 
 There’s nothing complicated here. It is just a sample repository that does some basic mathematical computations (*like calculating the average of a list of numbers*).
+
+In the future it *may* evolve to something more involve into a starter kit maybe. — Though for now, it is just a sample demo repository.
 
 ## About This Repository
 
@@ -33,20 +35,31 @@ This repository is a part of [Byte-Sized JavaScript Bi-Weekly VideoCast][vidcast
 
 It is a compilation of short (*more or less five minutes long*) bi-weekly screencasts about **JavaScript** and related technologies.
 
+## Wanna Help?
+
+Any help is more than appreciated.
+
+If you want to contribute to the source code, **fork this repository** and **create a pull request**.
+
+> In lieu of a formal style guide, take care to maintain the existing coding style.
+
+Also, don’t forget to add unit tests for any new or changed functionality.
+
+If you want to report a bug; or share a comment or suggestion, [file an issue](https://github.com/jsbites/nodejs-jumpstart/issues/new).
+
+## I’ve Found a Bug; I Have an Idea
+
+[For bug reports and suggestions, please file an issue](https://github.com/jsbites/node-js-jumpstart/issues/new).
+
 ## Contact Information
 
-* **Project Owner**: [Volkan Özçelik](mailto:me@volkan.io)
-* **Project Website**: <https://volkan.io>
-
-## License
-
-MIT-licensed. — See [the license file](LICENSE.md) for details.
+* **Project Maintainer**: [Volkan Özçelik](https://volkan.io/)
+* **Project Website**: <https://bytesized.tv>
 
 ## Code of Conduct
 
-We, as the community behind this project, are committed to making participation in this project a harassment-free experience for everyone, regardless of the level of expertise, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion or nationality.
+We are committed to making participation in this project a harassment-free experience for everyone, regardless of the level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
 
-[See the code of conduct](CODE_OF_CONDUCT.md) for more details.
+[See the code of conduct for details](CODE_OF_CONDUCT.md).
 
-[vidcast]: https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA
-[ticket]: https://github.com/jsbites/nodejs-jumpstart/issues/new
+[vidcast]: https://bytesized.tv/ "ByteSized.TV"

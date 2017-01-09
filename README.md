@@ -33,7 +33,7 @@ This repository is a part of [Byte-Sized JavaScript Bi-Weekly VideoCast][vidcast
 
 [Byte-Sized JavaScript][vidcast].
 
-It is a compilation of short (*more or less five minutes long*) bi-weekly screencasts about **JavaScript** and related technologies.
+It is a compilation of short (*more or less ten minutes long*) monthly screencasts about **JavaScript** and related technologies.
 
 ## Wanna Help?
 

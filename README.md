@@ -9,7 +9,7 @@
 
 ## Summary
 
-Node.JS Jumpstart is a sample repository that is used as an example for setting up a Node.JS sample project.
+**Node.js Jumpstart** is a sample repository that is used as an example for setting up a [Node.js][node] sample project.
 
 There’s nothing complicated here. It is just a sample repository that does some basic mathematical computations (*like calculating the average of a list of numbers*).
 
@@ -63,3 +63,4 @@ We are committed to making participation in this project a harassment-free exper
 [See the code of conduct for details](CODE_OF_CONDUCT.md).
 
 [vidcast]: https://bytesized.tv/ "ByteSized.TV"
+[node]: https://nodejs.org/ "Node.js"

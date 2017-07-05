@@ -1,7 +1,7 @@
 {
   "name": "nodejs-jumpstart",
   "version": "0.1.3",
-  "description": "Getting Started With Node.JS",
+  "description": "Getting Started With Node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,10 +11,21 @@
   "keywords": [
     "node.js",
     "sample",
-    "getting",
-    "started",
-    "demo"
+    "getting started",
+    "demo",
+    "vidcast",
+    "videocast",
+    "videos",
+    "tutorials",
+    "javascript"
+    "screencast",
+    "byte",
+    "byte-sized"
   ],
   "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io/)",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsbites/nodejs-jumpstart/issues"
+  },
+  "homepage": "https://bytesized.tv/"  
 }

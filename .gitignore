@@ -7,7 +7,7 @@
 #
 # This project is a part of the “Byte-Sized JavaScript” videocasts.
 #
-# You can watch “Byte-Sized JavaScript” at: https://bytesized.tv
+# You can watch “Byte-Sized JavaScript” at: https://bytesized.tv/
 #
 # MIT Licensed — See LICENSE.md
 #
@@ -54,3 +54,5 @@ node_modules
 # IDE
 .idea
 .c9
+.vscode
+.history

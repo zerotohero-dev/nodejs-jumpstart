@@ -15,26 +15,6 @@ There’s nothing complicated here. It is just a sample repository that does som
 
 In the future it *may* evolve to something more involve into a starter kit maybe. — Though for now, it is just a sample demo repository.
 
-## About This Repository
-
-This repository is a part of [Byte-Sized JavaScript Bi-Weekly VideoCast][vidcast].
-
-```
-  _               __
- |_)   _|_  _ __ (_  o _   _   _|
- |_) \/ |_ (/_   __) | /_ (/__(_|
-     /        |  _.     _. (_   _ ._ o ._ _|_
-            \_| (_| \/ (_| __) (_ |  | |_) |_
-                                       |
-            »»  bit.ly/bytesized  ««
-```
-
-## Byte-Sized What?!
-
-[Byte-Sized JavaScript][vidcast].
-
-It is a compilation of short (*more or less ten minutes long*) monthly screencasts about **JavaScript** and related technologies.
-
 ## Wanna Help?
 
 Any help is more than appreciated.
@@ -64,3 +44,14 @@ We are committed to making participation in this project a harassment-free exper
 
 [vidcast]: https://bytesized.tv/ "ByteSized.TV"
 [node]: https://nodejs.org/ "Node.js"
+
+## A [ByteSized.TV][vidcast] Project
+
+This repository is a part of the [Byte-Sized JavaScript VideoCasts][vidcast].
+
+It is a compilation of short (*around ten minutes*) screencasts about **JavaScript** and related technologies.
+
+[**Learn**, **explore**, and **have fun**][vidcast]!
+
+[vidcast]: https://bytesized.tv/ "ByteSized.TV"
+
